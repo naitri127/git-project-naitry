@@ -14,3 +14,7 @@ I am a student at UpGrad School of Technology, currently learning Git and GitHub
 
 ## Contact 
 - Email : savaliyanaitri@gmail.com
+
+## Hobbies
+- Reading books
+- Journalling
